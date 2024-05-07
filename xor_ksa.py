@@ -1,6 +1,7 @@
 """
-XOR Known Substring Attack by FazaN especially for North Palmyra (Intelligence Guild)
+XOR Known Plaintext Attack Tool by FazaN
 https://t.me/FZNSec
+https://t.me/NByteOSC
 https://t.me/intelligence_guild
 """
 
@@ -250,7 +251,7 @@ def print_header():
     print("""|--------------------------------------------------|
 # XOR Known Substring Attack                       #
 # Coded by FazaN (Head Of NPTD)                    #
-# Especially for                   NorthPalmyra    #
+# NullByte | Open Security         NorthPalmyra    #
 #                               Intelligence Guild #
 |--------------------------------------------------|
 """)
