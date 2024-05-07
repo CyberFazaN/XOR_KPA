@@ -1,8 +1,8 @@
-# XOR Known Substring Attack Tool
+# XOR Known Plaintext Attack Tool
 
-  [![Hits](https://hits.sh/github.com/CyberFazaN/XOR_KSA/hits.svg)](https://hits.sh/github.com/CyberFazaN/XOR_KSA/)
+  [![Hits](https://hits.sh/github.com/CyberFazaN/XOR_KPA/hits.svg)](https://hits.sh/github.com/CyberFazaN/XOR_KPA/)
 
-This tool, developed by FazaN for North Palmyra (Intelligence Guild), is designed to assist in the semi-automatic recovery of XOR encryption passwords through a Known Plaintext Attack (KPA). This README outlines the theoretical background, installation, usage, and functionality of the tool.
+This tool, developed by FazaN, is designed to assist in the semi-automatic recovery of XOR encryption passwords through a Known Plaintext Attack (KPA) through known substring of plaintext. This README outlines the theoretical background, installation, usage, and functionality of the tool.
 
 ## Why Known Plaintext Attack?
 
@@ -52,6 +52,7 @@ Contributions to improve the tool or fix issues are welcome. Please submit a pul
 ## Links and Contacts
 
 - FazaN: [Telegram](https://t.me/CyberFazaN)
+- NullByte | Open Security: [Telegram](https://t.me/NByteOSC)
 - North Palmyra (Intelligence Guild): [Telegram](https://t.me/intelligence_guild)
 
 ## License
@@ -60,4 +61,4 @@ This project is open-sourced under the MIT License. See the LICENSE file for mor
 
 ## Acknowledgments
 
-This tool was developed as a Proof of Concept (PoC) for a research article for North Palmyra, aiming to introduce new directions such as cryptography and cryptoanalysis, steganography, and cybersecurity.
+This tool was developed as a Proof of Concept (PoC) for a research article (in progress).
